@@ -50,6 +50,7 @@
 #ifdef UNIT_TEST
 #include <iostream>
 #include <string>
+#include "Arduino.h"
 #endif  // UNIT_TEST
 
 // Library Version Information
